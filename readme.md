@@ -1,0 +1,1 @@
+Filter example based on MACC architecture
